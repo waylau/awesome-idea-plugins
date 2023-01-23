@@ -31,3 +31,12 @@ This plugin shows name and Win/Mac shortcuts of any action you invoke (View | Ap
 
 
 https://plugins.jetbrains.com/plugin/7345-presentation-assistant
+
+## Adapter for Eclipse Code Formatter
+
+Allows using Eclipse's Java code formatter directly from IntelliJ.
+Solves the problem of maintaining a common code style in team environments where both IDEA and Eclipse are used.
+
+适配Eclipse代码格式化的插件。适合从Eclipse转IDEA的开发者。
+
+https://plugins.jetbrains.com/plugin/6546-adapter-for-eclipse-code-formatter
