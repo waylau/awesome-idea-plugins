@@ -13,14 +13,24 @@ Java开发常用IDEA插件。
 
 -----------
 
-## MyBatisCodeHelperPro
+## MyBatisX
 
-MyBatisCodeHelperPro plugin for java mybatis framework, provide auto completion inspection, code generation, make mybatis easy to use.
+MybatisX plugin Features:
+
+* mapper and xml can jump back and forth
+* mybatis.xml,mapper.xml prompt
+* mapper and xml support auto prompt like jpa (reference MybatisCodeHelperPro)
+* integrate mybatis generator Gui (copy from free mybatis plugin)
 
 
-MyBatisCodeHelperPro插件适用于java mybatis框架，提供自动完成检查、代码生成，使mybatis易于使用。
+MybatisX插件功能：
 
-https://github.com/gejun123456/MyBatisCodeHelper-Pro 
+* mapper和xml可以来回跳转
+* mybatis.xml，mapper.xml提示符
+* mapper和xml支持自动提示，如jpa（参考MybatisCodeHelperPro）
+* 集成mybatis生成器Gui（从免费mybatis插件复制）
+
+https://plugins.jetbrains.com/plugin/10119-mybatisx
 
 ## Presentation Assistant
 
