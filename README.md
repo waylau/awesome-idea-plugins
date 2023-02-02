@@ -50,3 +50,12 @@ Solves the problem of maintaining a common code style in team environments where
 适配Eclipse代码格式化的插件。适合从Eclipse转IDEA的开发者。
 
 https://plugins.jetbrains.com/plugin/6546-adapter-for-eclipse-code-formatter
+
+
+## Statistic
+
+Shows project statistic. This plugin shows files sorted by their extension along with size, line count LOC etc. User can select (Project/Module/Package/File) scope using the 'Refresh on selection' button. (This plugin requires Java 1.8)
+
+数据统计，包括代码量、文件大小等。
+
+https://plugins.jetbrains.com/plugin/4509-statistic
