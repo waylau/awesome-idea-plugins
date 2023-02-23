@@ -59,3 +59,20 @@ Shows project statistic. This plugin shows files sorted by their extension along
 数据统计，包括代码量、文件大小等。
 
 https://plugins.jetbrains.com/plugin/4509-statistic
+
+
+## Maven Helper
+
+A must have plugin for working with Maven.
+
+* easy way for analyzing and excluding conflicting dependencies
+* actions to run/debug maven goals for a module that contains the current file or on the root module
+* action to open terminal at the current maven module path
+* actions to run/debug the current test file.
+
+Maven包含以下功能：
+
+* 分析和排除冲突依赖关系的简单方法
+* 为包含当前文件的模块或根模块运行/调试maven目标的操作
+* 在当前maven模块路径上打开终端的操作
+* 运行/调试当前测试文件的操作。
